@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Lokesh Nimje
+## Hi I'm Lokesh Nimje 👋
 
-- 🔭 I’m Full Stack Web Developer ,Actively looking for new opportunities
-- 🌱 Lover of all things frontend! I love building things that work efficiently and looks great.
+- 🔭 I’m Full Stack Web Developer, Actively looking for new opportunities
+- 🌱 I love building things that work efficiently and looks great.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
@@ -12,7 +12,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
