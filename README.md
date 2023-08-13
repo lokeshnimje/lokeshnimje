@@ -14,11 +14,11 @@
 
 <img align="left" alt="React" width="26px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png?w=996&t=st=1691904983~exp=1691905583~hmac=df5a888d2be183be0156c5dc7be06130c453631099b7668e519adee95ab1beb1" />
 
-<img align="left" alt="Redux" width="26px" src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text.png" />
+<img align="left" alt="Redux" width="26px" src="https://img.stackshare.io/service/7374/react-redux.png" />
 <img align="left" alt="Antd" width="26px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 <img align="left" alt="GraphQl" width="26px" src="https://cdnlogo.com/logos/a/17/apollo-graphql-compact.svg" />
 <img align="left" alt="microServices" width="26px" src="https://t4.ftcdn.net/jpg/03/85/29/69/360_F_385296927_b9V4skbl94TzxL8AiVAMGdpp9hFeZat0.jpg" />
-<img align="left" alt="ExpressJs" width="26px" src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png" />
+<img align="left" alt="ExpressJs" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGPD7Hn7s50FOjKcG4oyL2CLYTYnIG4LOIhIiIpcYG_kf6kDVqsjQP-YSGDuXhInDczcI&usqp=CAU" />
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png?w=996&t=st=1691905140~exp=1691905740~hmac=f4a8ab94b51f743dcd98692844d7065e87608de79289a8bea91c2fc9feea835d" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" />
