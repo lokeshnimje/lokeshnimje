@@ -29,7 +29,7 @@
 <img align="left" alt="SQL" width="26px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" />
 <img align="left" alt="GitHub" width="26px" src="https://as2.ftcdn.net/v2/jpg/03/85/94/11/1000_F_385941143_1BqvbgfMom7UGFvhdYWVr1pHYdDPyBPp.jpg" />
 <img align="left" alt="BitBucket" width="26px" src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-03-21/334235045829_1d1db85d6877560365df_512.png" />
-<img align="left" alt="Attlassian" width="26px" src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.png" />
+<img align="left" alt="Attlassian" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKsAzRyWrZRpgHLhLhOsZvblgH1aIImHNk3IJFQb3-aqX_rrVYn_BSFVaNx15oLSr-Es&usqp=CAU" />
 <br />
 <br />
 <details>
