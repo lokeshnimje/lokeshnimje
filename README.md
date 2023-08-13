@@ -26,7 +26,7 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png?w=996&t=st=1691905140~exp=1691905740~hmac=f4a8ab94b51f743dcd98692844d7065e87608de79289a8bea91c2fc9feea835d" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" />
-<img align="left" alt="SQL" width="26px" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" />
+<img align="left" alt="SQL" width="26px" src="https://media.istockphoto.com/id/868618032/fr/vectoriel/sql-database-icon-design-ui-ou-ux-app.jpg?s=612x612&w=0&k=20&c=Y5CKOiffKtIw32IjOZOsWOP4TfCb6zFCFdoJPjwfux8=" />
 <img align="left" alt="GitHub" width="26px" src="https://as2.ftcdn.net/v2/jpg/03/85/94/11/1000_F_385941143_1BqvbgfMom7UGFvhdYWVr1pHYdDPyBPp.jpg" />
 <img align="left" alt="BitBucket" width="26px" src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-03-21/334235045829_1d1db85d6877560365df_512.png" />
 <img align="left" alt="Attlassian" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStKsAzRyWrZRpgHLhLhOsZvblgH1aIImHNk3IJFQb3-aqX_rrVYn_BSFVaNx15oLSr-Es&usqp=CAU" />
