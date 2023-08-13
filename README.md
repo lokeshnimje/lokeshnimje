@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://img.freepik.com/free-icon/html_318-788932.jpg?size=626&ext=jpg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png?w=996&t=st=1691904849~exp=1691905449~hmac=086371dc25155974d89f339eb9bccb7ce1008d24ca17175a8df79eed10bdae83" />
 <img align="left" alt="JavaScript" width="26px" src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" />
@@ -18,7 +18,7 @@
 <img align="left" alt="Antd" width="26px" src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" />
 <img align="left" alt="GraphQl" width="26px" src="https://cdnlogo.com/logos/a/17/apollo-graphql-compact.svg" />
 <img align="left" alt="microServices" width="26px" src="https://t4.ftcdn.net/jpg/03/85/29/69/360_F_385296927_b9V4skbl94TzxL8AiVAMGdpp9hFeZat0.jpg" />
-<img align="left" alt="ExpressJs" width="26px" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" />
+<img align="left" alt="ExpressJs" width="26px" src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png?w=996&t=st=1691905140~exp=1691905740~hmac=f4a8ab94b51f743dcd98692844d7065e87608de79289a8bea91c2fc9feea835d" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-256.png" />
