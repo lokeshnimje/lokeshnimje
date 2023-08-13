@@ -1,8 +1,9 @@
-## Hi I'm Lokesh Nimje 👋
-
-- 🔭 I’m Full Stack Web Developer, Actively looking for new opportunities
-- 🌱 I love building things that work efficiently and look great.
-- 🥅 Goals: Contribute more to Open Source projects
+## Hi I'm Lokesh Nimje 👋 
+  a passionate software engineer with a love for clean code and problem-solving.
+💼 Currently, I'm focused on building robust and user-centric applications that make an impact. My expertise lies in JavaScript, TypeScript,   React, Redux, Node, Express, and Apollo GraphQL, and I thrive in both frontend and backend development
+🚀 In my projects, I prioritise efficiency, scalability, and maintainability. Whether it's crafting elegant UIs with React or architecting      backend systems using Express, and Node, I'm always up for a challenge.
+🔧 When not coding, I'm likely diving into listening to Music, cooking, exercising, and exploring new places. Let's connect and explore how     we can create impactful software together.
+📫 Feel free to contact me at lokesh.nimje@gmail.com, and let's discuss how we can collaborate on the next big thing!
 
 ### Languages and Tools:
 
