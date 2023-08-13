@@ -1,8 +1,8 @@
 ## Hi I'm Lokesh Nimje 👋
 
 - 🔭 I’m Full Stack Web Developer, Actively looking for new opportunities
-- 🌱 I love building things that work efficiently and looks great.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I love building things that work efficiently and look great.
+- 🥅 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
 
